@@ -7,6 +7,41 @@ The main requirements are to show that:
 1. Your development environment is correctly set up
 2. You understand the setup including potential alternative configuration settings
 
+
+The computer system that is being used to for this project is the ASUS ROG flow X13 laptop the current specs of which are:
+Processor	AMD Ryzen 9 7940HS
+RAM	16.0 GB
+GeForce RTX 4050 graphics card
+
+IDE: Visual Studio community 2022 (Current Version 17.7.3) 
+
+
+This was chosen as it is both able to run the expected software for developing the project and portable for attending meetings with the team and working from home.
+
+The Project will be built using the IDE: Visual Studio and git version control to work from a shared repository among the team.
+
+
+
+
+
+
+
+
+Each member of the team has been been given access to the repository to allow for group collaboration. At the moment all collaborators are able to push and merge changes into the main branch. During this stage it is not particularly harmfull to the project workflow but as the group is quite a large team, it will be safer to include branch protection rules in the repository settings especially for the main branch to ensure a safe and efficient workflow aswell as minimising setbacks and potential issues that may occur.
+
+Its also worth ensuring that each team member is using the same IDE and version to minimise risk of errors and compatibility issues, this will also provide the added benifit of more experienced members of the team being better able to guide less experienced members when their working environments are the same or highly similar.
+
+There are many usefull extensions to use on Visual Studio to assist in development which have yet to be decided on installed however Github Copilot is likley to be one of them.
+
+
+
+
+
+
+
+
+
+
 ## Environment configuration
 
 Here, you should include appropriate screenshots with additional commentary. 
