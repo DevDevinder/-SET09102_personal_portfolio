@@ -9,17 +9,19 @@ The main requirements are to show that:
 
 # System Specs
 
-The computer system that is being used to for this project is the ASUS ROG flow X13 laptop the current specs of which are:
-Processor	AMD Ryzen 9 7940HS
-RAM	16.0 GB
-GeForce RTX 4050 graphics card
+The computer system that is being used to for this project is the *ASUS ROG flow X13*.
+The current specs of which are:
+
+* Processor	AMD Ryzen 9 7940HS
+* RAM	16.0 GB
+* GeForce RTX 4050 graphics card
 
 IDE: Visual Studio community 2022 (Current Version 17.7.3) 
 
 
 This was chosen as it is both:
-* Able to efficiently run the expected softwares for developing the project.
-* A Portability laptop for attending meetings with the team and working from home.
+* Able to **efficiently run the expected softwares** for developing the project.
+* A **Portable laptop** for attending meetings with the team and working from home.
 
 
 # Working environments
