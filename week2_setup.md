@@ -7,6 +7,7 @@ The main requirements are to show that:
 1. Your development environment is correctly set up
 2. You understand the setup including potential alternative configuration settings
 
+# System Specs
 
 The computer system that is being used to for this project is the ASUS ROG flow X13 laptop the current specs of which are:
 Processor	AMD Ryzen 9 7940HS
@@ -16,9 +17,14 @@ GeForce RTX 4050 graphics card
 IDE: Visual Studio community 2022 (Current Version 17.7.3) 
 
 
-This was chosen as it is both able to run the expected software for developing the project and portable for attending meetings with the team and working from home.
+This was chosen as it is both:
+* Able to efficiently run the expected softwares for developing the project.
+* A Portability laptop for attending meetings with the team and working from home.
 
-The Project will be built using the IDE: Visual Studio and git version control to work from a shared repository among the team.
+
+# Working environments
+
+The Project will be built using the **IDE: Visual Studio** and git version control to work from a shared repository among the team.
 
 
 
