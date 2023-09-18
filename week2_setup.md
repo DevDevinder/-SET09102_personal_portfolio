@@ -25,7 +25,7 @@ The team are currently using Discord to communicate remotely and face to face at
 **IDE used:**
  <figure>
 <img src="./images/Visual Studio Version.png" alt="VS version" style="width:100%">
-<figcaption align = "center"><b align = "center">Fig.1 - VS version</b></figcaption></figure>
+<figcaption ><b>Fig.1 - VS version</b></figcaption></figure>
 
 * *Visual Studio has been installed with the latest version (Version 17.7.3) to allow for development using C#.*
 
