@@ -51,10 +51,10 @@ The team are currently using Discord to communicate remotely and face to face at
 **IDE GITHUB LINK:**
 
 <figure>
-<img src="./images/Github Link.png" alt="Github Account Link" style="width:100%">
-<figcaption align = "center"><b>Fig.4 - VS Github account Link</b></figcaption></figure>
+<img src="./images/Github Link.png" alt="GitHub Account Link" style="width:100%">
+<figcaption align = "center"><b>Fig.4 - VS GitHub account Link</b></figcaption></figure>
 
-* *Github account that has access to group repository linked to visual Studio for Git version controles.*
+* *GitHub account that has access to group repository linked to visual Studio for Git version controles.*
 
 
 <br><br>
@@ -68,22 +68,22 @@ The team are currently using Discord to communicate remotely and face to face at
 * *Ensuring Git is functioning through Visual studio Code by testing merges and pushes.*
 
 <br><br>
-### <ins>Github</ins>
+### <ins>GitHub</ins>
 **Group Repository:**
 
 <figure>
 <img src="./images/greenTeam_Repo.png" alt="Repository" style="width:100%">
 <figcaption align = "center"><b>Fig.6 - Group Repository</b></figcaption></figure>
 
-* *Repository for the team project which a team member had made for the group is on Github where team members have been invited to join and is where the project has been cloned from.*
+* *Repository for the team project which a team member had made for the group is on GitHub where team members have been invited to join and is where the project has been cloned from.*
 
 <br><br>
 **Viewing Commits on Group Repository:**
 
 
 <figure>
-<img src="./images/commit_tests.png" alt="Github Commits" style="width:100%">
-<figcaption align = "center"><b>Fig.7 - Github Commits</b></figcaption></figure>
+<img src="./images/commit_tests.png" alt="GitHub Commits" style="width:100%">
+<figcaption align = "center"><b>Fig.7 - GitHub Commits</b></figcaption></figure>
 
 * *The pushes and merge tests on Visual Studio as seen on fig.5 can also be seen  here on Fig.7 to have successfully been recieved on the Group Repository.*
 
@@ -96,13 +96,13 @@ The team are currently using Discord to communicate remotely and face to face at
 
 #### <ins>Set Up Process</ins>
 
-Installing the IDE and setting up extensions as well as using Git was a familiar process as I have used Visual studio in the past and often use Visual Studio Code paired with Github, which is very similar to use.
+Installing the IDE and setting up extensions as well as using Git was a familiar process as I have used Visual studio in the past and often use Visual Studio Code paired with GitHub, which is very similar to use.
 
 Although I'm not too familiar with using .NET MAUI, installing the MAUI templates was also straight forward as the assignment notes provided simple recommended instructions for installing and I also went through the official documentation on the installation steps.
 
 #### <ins>Moving Forward</ins>
 
-As the team is in a fresh set-up stage, the configurations at the moment are suitable, but once we have a clearer sense of direction towards the project as a team, it will be best to update our configurations to suit, perhaps by searching for suitable Visual Studio extensions and MAUI Workloads that could help productivity. One extension in mind (that the team could benefit from but doesn't require everyone to have) is Github Copilot, which I have found very useful in the past.
+As the team is in a fresh set-up stage, the configurations at the moment are suitable, but once we have a clearer sense of direction towards the project as a team, it will be best to update our configurations to suit, perhaps by searching for suitable Visual Studio extensions and MAUI Workloads that could help productivity. One extension in mind (that the team could benefit from but doesn't require everyone to have) is GitHub Copilot, which I have found very useful in the past.
 
 #### <ins>potential issues</ins>
 As I am not too familiar with using .NET MAUI, more research is planned to not hold back the team with lack of knowledge. This can be resolved by self-learning and buddying with a member who has more familiarity with the framework.
