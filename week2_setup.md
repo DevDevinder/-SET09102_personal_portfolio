@@ -12,7 +12,7 @@ The current specs of which are:
 * Windows 11 Home
 <br>
 
-# Team Communication
+### Team Communication
 The team are currently using Discord to communicate remotely and face to face at the Napier Merchiston campus.
 <br><br>
 
@@ -87,7 +87,7 @@ The team are currently using Discord to communicate remotely and face to face at
 
 * *The pushes and merge tests on Visual Studio as seen on fig.5 can also be seen  here on Fig.7 to have successfully been recieved on the Group Repository.*
 
-
+<br><br>
 ## Reflection
 
 
