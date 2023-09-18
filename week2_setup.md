@@ -1,99 +1,140 @@
 # Setup
 
-This section documents your practical work in week 2.
+### <ins>System Specs</ins>
 
-The main requirements are to show that:
+The computer system that is being used for this project is the *ASUS ROG Flow X13*.
 
-1. Your development environment is correctly set up
-2. You understand the setup including potential alternative configuration settings
-
-# System Specs
-
-The computer system that is being used to for this project is the *ASUS ROG flow X13*.
 The current specs of which are:
 
 * Processor	AMD Ryzen 9 7940HS
 * RAM	16.0 GB
 * GeForce RTX 4050 graphics card
+* Windows 11 Home
 
-IDE: Visual Studio community 2022 (Current Version 17.7.3) 
-
-
-This was chosen as it is both:
-* Able to **efficiently run the expected softwares** for developing the project.
-* A **Portable laptop** for attending meetings with the team and working from home.
-
-
-# Working environments
-
-The Project will be built using the **IDE: Visual Studio** and git version control to work from a shared repository among the team.
-
-
-
-
-
-
-
-
-Each member of the team has been been given access to the repository to allow for group collaboration. At the moment all collaborators are able to push and merge changes into the main branch. During this stage it is not particularly harmfull to the project workflow but as the group is quite a large team, it will be safer to include branch protection rules in the repository settings especially for the main branch to ensure a safe and efficient workflow aswell as minimising setbacks and potential issues that may occur.
-
-Its also worth ensuring that each team member is using the same IDE and version to minimise risk of errors and compatibility issues, this will also provide the added benifit of more experienced members of the team being better able to guide less experienced members when their working environments are the same or highly similar.
-
-There are many usefull extensions to use on Visual Studio to assist in development which have yet to be decided on installed however Github Copilot is likley to be one of them.
-
-
-
-
-
-
-
-
-
-
+# Team Communication
+the team are currently using Discord to communicate remotely and face to face at the Napier merchiston campus.
 ## Environment configuration
 
-Here, you should include appropriate screenshots with additional commentary. 
 
-**DO**
 
-* Place your image files in the `images` folder
-* Choose your screenshots carefully so that they communicate the appropriate information.
-  Many screenshots with no clear purpose or with trivial differences are of little value.
-* Provide <ins>descriptive</ins> commentary to explain why the screenshot is included. 
-  what it shows and point out any particularly significant details.
-* Modify your screenshots - for example, by adding arrows, outlines or other highlighting 
-  techniques - to enhance their communication value.
-* Remove unnecessary material from your screenshots such as toolbars, other windows and 
-  computer desktop to eliminate distractions.
-* Ensure that any important content is clearly legible. Pay particular attention to text
-  size and image resolution.
-* Use [numbered captions](https://towardsdev.com/3-ways-to-add-a-caption-to-an-image-using-markdown-f2ca30562be6) 
-  as labels for images. Also, use the caption numbers to refer to images in your text.
+### <ins>IDE CONFIGURATIONS</ins>
 
-**DON'T**
 
-* Expect the reader to understand your reasons for including a screenshot. If you can't
-  explain it, the screenshot will not do the job on its own.
-* Include self-evident comments. For example, don't simply list the values used on a
-  configuration page if those values are clearly visible in the screenshot.
+IDE used:
+ <figure>
+<img src="./images/Visual Studio Version.png" alt="VS version" style="width:100%">
+<figcaption align = "center"><b>Fig.1 - VS version</b></figcaption></figure>
+
+* *Visual Studio has been installed with the latest version (Version 17.7.3)* to allow for development using C#.
+
+IDE extensions for the project:
+ <figure>
+<img src="./images/extension.png" alt="VS extensions" style="width:100%">
+<figcaption align = "center"><b>Fig.2 -  VS Extension</b></figcaption></figure>
+
+* *Extension installed on Visual Studio to support with utilising MAUI**.
+
+.NET MAUI TEMPLATES:
+ <figure>
+<img src="./images/MAUITEMPLATESInstall.png" alt="MAUI Templates Install" style="width:100%">
+<figcaption align = "center"><b>Fig.3 - MAUI Templates</b></figcaption></figure>
+
+* *MAUI templates installed which will help with cross-platform development*.
+
+
+IDE GITHUB LINK:
+
+<figure>
+<img src="./images/Github Link.png" alt="Github Account Link" style="width:100%">
+<figcaption align = "center"><b>Fig.4 - VS Github account Link</b></figcaption></figure>
+
+* Github account that has access to group repository linked to visual Studio for Git version controles.
+
+Using Git:
+
+<figure>
+<img src="./images/testingGit.png" alt="git tests" style="width:100%">
+<figcaption align = "center"><b>Fig.5 - testing git</b></figcaption></figure>
+
+
+* Ensuring Git is functioning through Visual studio Code by testing merges and pushes.
+
+
+### <ins>Github</ins>
+Group Repository:
+
+<figure>
+<img src="./images/greenTeam_Repo.png" alt="Repository" style="width:100%">
+<figcaption align = "center"><b>Fig.6 - Group Repository</b></figcaption></figure>
+
+* Repository for the team project which a team member had made for the group is on Github where team members have been invited to join and is where the project has been cloned from.
+
+
+Viewing Commits on Group Repository:
+
+
+<figure>
+<img src="./images/commit_tests.png" alt="Github Commits" style="width:100%">
+<figcaption align = "center"><b>Fig.7 - Github Commits</b></figcaption></figure>
+
+*The pushes and merge tests on Visual Studio as seen on fig.5 can also be seen  here on Fig.7 to have successfully been recieved on the Group Repository.
+
 
 ## Reflection
 
-For this section, decide what points are worth making and structure your content 
-appropriately.
 
-**DO**
+### *Configuring Visual Studio*
 
-* Use sub-headings to differentiate between sections
-* Provide <ins>reflective</ins> commentary that discusses, for example, limitations of
-  your current configuration, how your configuration is appropriate for the current 
-  project, alternative configuration that might be appropriate in ther circumstances, 
-  etc.
-* Mention any difficulties you had setting up your working environment and how you 
-  resolved them
 
-**DON'T**
+#### <ins>Set Up Process</ins>
 
-* Repeat the descriptive commentary from point 1
-* Give a blow-by-blow account of everything you did. Instead, you should highlight 
-  the important points.
+Setting up the working environment and adding extensions aswell as using Git was a familiar process as I have used Visual studio in the past and often use Visual Studio Code paired with Github.
+
+Although im Not too familiar with using .NET MAUI, Installing the MAUI Templates was also Straight forward as the assignment notes provided simple recommended instructions to do so and I also went through the official documentation on installation steps.
+
+#### <ins>Moving Forward</ins>
+
+As the team is in a fresh set up Stage the configurations at the moment are suitable but once we have a clearer sense of direction with the project as a team it will be best to update our configurations to suit perhaps by searching for suitable Visual Studio extensions and MAUI Workloads that could help productivity. One extension in mind (that the team could benifit from but doesnt require everyone to have) is Github Copilot which I have found very usefull in the past.
+
+#### <ins>potential issues</ins>
+As I am not too familiar with using .NET MAUI, more reaserch is planned to not hold back the team with lack of knowledge, this can be resolved by self learning and buddying with a member who has more familiarity with framework
+
+#### <ins>potential issues as a team</ins>
+
+At this stage I have two areas of concerns regarding potential issues that may occur moving forward:
+
+ 
+ **1:** 
+ 
+ At the moment all collaborators are able to push and merge changes into the main branch. During this stage it is not particularly harmfull to the project workflow but as the group is quite a large team, it will be safer to include branch protection rules in the repository settings especially for the main branch to ensure a safe and efficient workflow aswell as minimising setbacks and potential issues that may occur such as overwriting important work.
+
+**2:**
+
+As we have only decided on the same IDE Its also worth ensuring that each team member is using the same versions too where possible to minimise risk of errors and compatibility issues, this will also provide the added benifit of more experienced members of the team being better able to guide less experienced members when their working environments are the same or highly similar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
