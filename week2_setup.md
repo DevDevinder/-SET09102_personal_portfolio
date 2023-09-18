@@ -95,30 +95,30 @@ The team are currently using Discord to communicate remotely and face to face at
 
 #### <ins>Set Up Process</ins>
 
-Installing the IDE and setting up extensions aswell as using Git was a familiar process as I have used Visual studio in the past and often use Visual Studio Code paired with Github which is a very similar to use.
+Installing the IDE and setting up extensions as well as using Git was a familiar process as I have used Visual studio in the past and often use Visual Studio Code paired with Github, which is very similar to use.
 
-Although i'm not too familiar with using .NET MAUI, Installing the MAUI templates was also straight forward as the assignment notes provided simple recommended instructions for installing and I also went through the official documentation on installation steps.
+Although I'm not too familiar with using .NET MAUI, installing the MAUI templates was also straight forward as the assignment notes provided simple recommended instructions for installing and I also went through the official documentation on the installation steps.
 
 #### <ins>Moving Forward</ins>
 
-As the team is in a fresh set up Stage the configurations at the moment are suitable but once we have a clearer sense of direction with the project as a team it will be best to update our configurations to suit, perhaps by searching for suitable Visual Studio extensions and MAUI Workloads that could help productivity. One extension in mind (that the team could benifit from but doesnt require everyone to have) is Github Copilot which I have found very usefull in the past.
+As the team is in a fresh set-up stage, the configurations at the moment are suitable, but once we have a clearer sense of direction towards the project as a team, it will be best to update our configurations to suit, perhaps by searching for suitable Visual Studio extensions and MAUI Workloads that could help productivity. One extension in mind (that the team could benefit from but doesn't require everyone to have) is Github Copilot, which I have found very useful in the past.
 
 #### <ins>potential issues</ins>
-As I am not too familiar with using .NET MAUI, more reaserch is planned to not hold back the team with lack of knowledge, this can be resolved by self learning and buddying with a member who has more familiarity with framework
+As I am not too familiar with using .NET MAUI, more research is planned to not hold back the team with lack of knowledge. This can be resolved by self-learning and buddying with a member who has more familiarity with the framework.
 
 #### <ins>potential issues as a team</ins>
 
-At this stage I have two areas of concerns regarding potential issues that may occur moving forward:
+At this stage, I have two areas of concerns regarding potential issues that may occur moving forward:
 
  
  **1:** 
  
- At the moment all collaborators (some of which who are not familiar with version controles) are able to push and merge changes into the main branch. During this stage it is not particularly harmfull to the project workflow but as the group is quite a large team, it will be safer to include branch protection rules in the repository settings especially for the main branch to ensure a safe and efficient workflow aswell as minimising setbacks and potential issues that may occur such as overwriting important work.
+ At the moment, all collaborators (some of whom who are not familiar with version control) are able to push and merge changes into the main branch. During this stage it is not particularly harmful to the project workflow, but as the group is quite a large team, it will be safer to include branch protection rules in the repository settings, especially for the main branch to ensure a safe and efficient workflow, well as minimising setbacks and potential issues that may occur such as overwriting important work.
  
 
 **2:**
 
-As we have only decided on the same IDE Its also worth ensuring that each team member is using the same versions too where possible to minimise risk of errors and compatibility issues, this will also provide the added benifit of more experienced members of the team being better able to guide less experienced members when their working environments are the same or highly similar.
+As we have only decided on the same IDE, it's also worth ensuring that each team member is using the same versions too, where possible, to minimise risk of errors and compatibility issues, this will also provide the added benefit of more experienced members of the team being better able to guide less experienced members when their working environments are the same or highly similar.
 
 
 
