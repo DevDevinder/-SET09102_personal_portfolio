@@ -14,7 +14,8 @@ The current specs of which are:
 
 # Team Communication
 The team are currently using Discord to communicate remotely and face to face at the Napier Merchiston campus.
-<br>
+<br><br>
+
 ## Environment configuration
 
 
