@@ -1,5 +1,7 @@
 # Setup
 
+For Week 2 team members have been tasked with doing a basic set up which includes installing Visual Studio and ensuring they access to the GitHub Repository. Below is currently my set up in preperation for project development, at the bottom is some of my reflections on setting up for this project at this stage.
+
 ### <ins>System Specs</ins>
 
 The computer system that is being used for this project is the *ASUS ROG Flow X13*.
@@ -120,6 +122,16 @@ At this stage, I have two areas of concerns regarding potential issues that may 
 **2:**
 
 As we have only decided on the same IDE, it's also worth ensuring that each team member is using the same versions too, where possible, to minimise risk of errors and compatibility issues, this will also provide the added benefit of more experienced members of the team being better able to guide less experienced members when their working environments are the same or highly similar.
+
+ ## Conclusion
+
+In Conclusion, I feel having MAUI extensions and templates already installed is a good start in terms of preparation as the project will be written in C# and MAUI will make development easier to access different platforms from a single codebase.
+
+Visual Studio is an ideal IDE that has all the features necassery for C# and .NET MAUI and has failry simple version control features that can benifit some of the less experienced members of the team.
+
+Similarly GitHub is a suitable choice for a mix experienced team as it is not only well known and documented but there are many members familiar with GitHub and version control who can assist others up to speed utilising a Buddy system approach.
+
+
 
 
 
