@@ -7,35 +7,35 @@ This section highlights during week 3 how the team planned to manage our workflo
 
 The team are using both the issues and projects tools on Github for tracking and organising tasks and issues. The Issue tab on the groups Github repository is currently used to keep a task list where each member is able to self assign to, which I have done, for example shown here on Fig.1
 
-
+<br><br>
 <figure>
 <img src="./images/SelfAssignedToIssue.png" alt="MAUI Templates Install" style="width:100%">
 <figcaption align = "center"><b>Fig.1 - Self Assigned to issue</b></figcaption></figure>
-
+<br><br>
 The team are also working from a project board on the group's Github repository to keep track of tasks.
 
 The project board currently organises tasks in three stages, which are named "Todo", which represents the backlog, "In progress", which represents tasks that a member is currently working on and "Done" for tasks that have been completed. Fig.2 below shows the project board with the arrangement of some tasks in their stage of progress.
-
+<br><br>
 <figure>
 <img src="./images/githubProjectBoardPopulated.png" alt="MAUI Templates Install" style="width:100%">
 <figcaption align = "center"><b>Fig.2 - Project board</b></figcaption></figure>
-
+<br><br>
 At the moment, members of the team have been asked to leave a comment on a backlog task (task in the ToDo section) to flag it up for a member who holds the permission to manually move it from "ToDo" to "In Progress".
 
 Which I have done as shown in Fig.3 by leaving a comment to inform I will take on the task of maintaining reference values of organisation types.The task still remains in the "Todo" Section  of the project board as shown previously in fig.2 as it is yet to be moved by a member with permission to do so.
-
+<br><br>
 <figure>
 <img src="./images/FlaggedTask.png" alt="MAUI Templates Install" style="width:100%">
 <figcaption align = "center"><b>Fig.3 - Project board task comment</b></figcaption></figure>
-
+<br><br>
 
 This task has only just been started as a member of the team was creating a starting template for all members to begin to working on their task from within their own branches. as this template has now been created I have successfully made my own branch with the template provided from the main branch as shown in Fig.4
 
-
+<br><br>
 <figure>
 <img src="./images/branch template.png" alt="MAUI Templates Install" style="width:100%">
 <figcaption align = "center"><b>Fig.4 - personal branch made from main (template) </b></figcaption></figure>
-
+<br><br>
 
 #### <ins>Current Stage</ins>
 Currently, members have been asked by the creator of the template to refrain from making any changes to the main branch to prevent any loss or potential issues from the moment until our next meeting unless it has been okayed earlier.
