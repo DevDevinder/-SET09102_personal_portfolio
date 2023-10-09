@@ -7,7 +7,7 @@ In This section of the portfolio I will discuss documentation and Clean Code pra
 When Writing code it is important to use *readable, searchable and meaningful* names for classes, methods and variabls so that they can be easily understood and help to express their purpose.
 
 <br><br>
-**.NET MAUI TEMPLATES:**
+
  <figure>
 <img src="./images/Meaningfull names.png" alt="MAUI Templates Install" style="width:100%">
 <figcaption align = "center"><b>Fig.1 - Meaningfull names method</b></figcaption></figure>
@@ -19,7 +19,7 @@ When Writing code it is important to use *readable, searchable and meaningful* n
 The Above example shows Clearly within the method name that we are using the *OrganisationType* class to get all types("GetAllTypes") of organisations from within the database table. 
 
 <br><br>
-**.NET MAUI TEMPLATES:**
+
  <figure>
 <img src="./images/ClearVariableNames.png" alt="MAUI Templates Install" style="width:100%">
 <figcaption align = "center"><b>Fig.2 - Meaningfull names variables</b></figcaption></figure>
@@ -63,7 +63,7 @@ Dry Stands for  "Do Not Repeat Yourself".
 It is the principle of avoiding being repeatative with the same code blocks using only minor changes to them for each function and instead create a stand alone function that can be called with parameters to handle those tasks.
 
 <br><br>
-**.NET MAUI TEMPLATES:**
+
  <figure>
 <img src="./images/DRYPrinciple.png" alt="MAUI Templates Install" style="width:100%">
 <figcaption align = "center"><b>Fig.3 - DRY </b></figcaption></figure>
@@ -104,7 +104,7 @@ This comment is only usefull as a tool for training purposes for a specific team
 When writing the code I included  documentation comments Above the classes and methods to doccument their purposes.
 
 <br><br>
-**.NET MAUI TEMPLATES:**
+
  <figure>
 <img src="./images/DoxyAddType.png" alt="MAUI Templates Install" style="width:100%">
 <figcaption align = "center"><b>Fig.4 - Documentation comments 1</b></figcaption></figure>
@@ -117,7 +117,7 @@ The comment also includes the parameters being passed. EventArgs args is a param
 
 
 <br><br>
-**.NET MAUI TEMPLATES:**
+
  <figure>
 <img src="./images/doxyHtmlAddorg.png" alt="MAUI Templates Install" style="width:100%">
 <figcaption align = "center"><b>Fig.5 - Documentation comments 1-Doxygen</b></figcaption></figure>
@@ -126,7 +126,7 @@ Here we can see doxygen has taken the comments  and produced a html documentatio
 
 
 <br><br>
-**.NET MAUI TEMPLATES:**
+
  <figure>
 <img src="./images/DoxygenclassComment.png" alt="MAUI Templates Install" style="width:100%">
 <figcaption align = "center"><b>Fig.6 - Documentation comments 2-Doxygen</b></figcaption></figure>
@@ -134,7 +134,7 @@ Here we can see doxygen has taken the comments  and produced a html documentatio
 Here we can see the documentation comments above for the class which gives a breakdown of the classes purpose.
 
 <br><br>
-**.NET MAUI TEMPLATES:**
+
  <figure>
 <img src="./images/DoxyClassHtml.png" alt="MAUI Templates Install" style="width:100%">
 <figcaption align = "center"><b>Fig.6 - Documentation comments 3-Doxygen</b></figcaption></figure>
