@@ -147,6 +147,8 @@ It is also worth noting that doxygen has automatically provided an inheritance d
 
 Below the diagram, we can see other methods and their documentation, simplified more neatly.
 
+
+## Conclusion
 Much of the code was heavily commented inline within the functions, as shown in Fig. 3. However, these comments have been removed because they were unnecessary. Much of the comments were simply explaining what each if statement was doing and the variables' intentions. The code was not following clean code practices, due in part to both having a rough draft workflow to begin with to practice the code and to explain the intentions of the code to team members prior to code cleanup. Moving forward, it will be more efficient to stick to clean code practices using documentation comment systems rather than step-by-step inline comments, and to keep the code organized following the six principles discussed.
 
 
