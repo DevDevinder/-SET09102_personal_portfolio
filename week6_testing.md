@@ -17,14 +17,13 @@ My task was to choose a method provided and then make it functional and write un
 The chosen method was CheckLettersInWord()
 which takes in two parameters.
 <br>
- First being a string named word (the word players need to guess) and the second being a char named letter(the players input).
+First being a string named word (the word players need to guess) and the second being a char named letter(the players input).
  <br>
 
- The method checks user input  and returns true if the letter is contained within the word and false if not.
+The method checks user input  and returns true if the letter is contained within the word and false if not.
 
-
- ## Solution
- The solution to achieve this task:
+## Solution
+The solution to achieve this task:
  <br>
   <figure>
 <img src="./images/CheckLetterinWordUpdated.png" alt="Xunit Testing" style="width:100%">
