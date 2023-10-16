@@ -17,7 +17,7 @@ My task was to choose a method provided and then make it functional and write un
 The chosen method was CheckLetterInWord()
 which takes in two parameters.
 <br>
-First being a string named word (the word players need to guess) and the second being a char named Answer(the players input).
+First being a string named word (the word players need to guess) and the second being a char named answer(the players input).
  <br>
 
 The method checks user input and returns true if the answer is contained within the word and false if not.
