@@ -63,7 +63,7 @@ For both of these tests, I used the Theory attribute to use a data-driven test a
 These tests are important because the core feature of the game is determining whether users' inputs are correct, and the tests reflect whether the user has chosen the correct letter.
 
 
-## test results
+## Test Results
 Tests passed when run in Visual Studio:
 <br>
   <figure>
@@ -88,6 +88,22 @@ another Issue i faced was that when invoking the method like in fig. 2, line 54 
 Further improvements will be creating a standalone function to handle repeat code and also finding an efficient way to avoid using "magic strings" completely here, as I am still using them for the chars(letters) in the InLineData attributes.
 
 I also feel that I should have written a separate test for checking case sensitivity so that it would have been more clear what is being tested when running the tests.
+
+## Reviewing Others
+
+
+In terms of reviewing the methods team members have worked on and their test code written, I have only seen, at the time of writing, members who have worked on the same method as I have. This gave me a good opportunity to provide feedback on their code, as it was something I had already worked on with different implementations.
+
+I found that their CheckLetterInWord method was only using the .Contains() method without checking for case sensitivity, and this was also reflected in the test code. I also noticed that they had changed the method to be public rather than keeping it private.
+
+When reviewing the code for the members, I used Discord (our communication channel of choice) to inform them, as it was the most convenient way to reach them and discuss it.
+
+I explained to the team that it is not safe to change private methods to be public, but I understand the reasoning behind doing so for test purposes, and I showed them an example of how I solved it. I also explained to them about case sensitivity and some solutions to handle that, such as what I have done.
+
+Overall, the code was well-written, with just some optimization improvements. For example, instead of using an if statement with a conditional to call the .Contains() method, they could just simply return the .Contains() method, as it will return true or false anyway.
+
+I have not currently received feedback on my code yet, but the Limitations part of this report outlines my own thoughts on my code.
+
 
 
 
