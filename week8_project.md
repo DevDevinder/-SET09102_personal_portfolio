@@ -138,5 +138,5 @@ In conclusion it's clear Learning a new framework while working on it is often a
 
 
 Moving forward I will need to assign more time into researching the framework so I can improve further on my skillset for this project and assist others who are falling behind and have another attempt at improving communications with team members to work closer together.
-I
+
 
