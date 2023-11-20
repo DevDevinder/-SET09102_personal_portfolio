@@ -140,7 +140,6 @@ I sense that some code has been copied and pasted from other methods which may b
 I have reviewed this team members code before and notice improvements in naming conventions as a whole.
 
 
-
 #### Reflections
 
 
@@ -156,50 +155,7 @@ fortunatly one of the benifits of this is there are now more tasks for myself to
  
 This has shown me the importance of writing code following Software engineering principles and doing code reviews as when someone leaves unexpectedly without a trace it is important to be able to read and understand their code that has been left behind.
 
-
 During his weeks code review I found my code to be a lot more modular, has less code smells such as "Duplicate code" and "Mysterious Name" and will reach a higher Internal quality criteria (also due to having test cases)
 My team member is Improving at a fast rate and was relying a bit more on comments to explain the code in previous weeks but has now removed uneccessary comments and instead now uses clear self descriptive code writing.
 
-
-
-
-
-
-
-
-
-I will also include an appendix of my code this week at the end of this entry.
-
-* A descriptive summary of the issue that you worked on.
-* Snippets from your code with commentary showing how you have used good software design 
-  practice.
-* A descriptive summary of the test code that you have written.
-
-* A reflective summary of any changes that were requested during the code review along 
-
-  with your fixes.
-* A descriptive summary of any issues you found with the code that you were asked to review.
-* A general reflective section that identifies, for example,
-  * New things you have realised this week
-  * Common problems that can arise in a team development situation
-  * How your practice compares to other people's
-  * etc.
-
-Be sure to include links to the original items in the team's GitHub repository.
-
-In the reflective sections this week, you should highlight ways that you persona practice
-has improved as before. It would also be good to reflect on any improvements that have
-been made to the agreed team workflow and related procedures. Are things working
-better than they were? What further improvements could be made in the future?
-
-## Marking
-
-The marks for this portfolio entry will be split as follows:
-
-* Timeliness: 5 marks (one mark will be deducted for each day or partial day that the submission 
-  is late).
-* Description: 1 mark is awarded for the descriptive content. You are guaranteed at least one 
-  question on this entry in the final interview assessment. Please do not skimp on the 
-  descriptive content. 
-* Reflection: 4 marks are awarded for the quality of reflection. Again, you should think of this 
-  as preparation for the interview assessment.
+In Conclusion I feel I am still progressing and refining myself but at the same rate as previous weeks in terms of software principles, I do appreciate being more aware of the principles now and feel its becoming more habitual to ensure I am following them.
