@@ -167,7 +167,7 @@ quantifiable evalutation.
 The part that worked best I found was code Reviews as it is more a collective ownership when we are looking at each others code and I noticed people improved on their code positivley when given feedback when reviewing their code again.
 <figure>
 <img src="./images/w13CodeReviewProgress.png" alt="w13" style="width:100%">
-<figcaption align = "center"><b>Fig.6 - Self Assigned to issue</b></figcaption></figure>
+<figcaption align = "center"><b>Fig.10 - positive change</b></figcaption></figure>
 <br><br>
 
 I think my biggest improvement was Code reviews as it is not something I have done before when using Github.
